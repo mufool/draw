@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T08:57:25.479Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="Hb3nKfSVijp6S6lofEqD" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T08:57:37.225Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="GVLJEzkO9lGbnXPNlDvo" version="12.4.8" type="github">
   <diagram id="D5SrRiFoWvf5I0LUAmtN" name="第 1 页">
     <mxGraphModel dx="1408" dy="1179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -269,7 +269,7 @@
         <mxCell id="YeKVqjcb1EDhcV8V6zDs-61" value="信息流推荐" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#999DD2;strokeColor=none;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="587" y="730" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="YeKVqjcb1EDhcV8V6zDs-62" value="AB测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#999DD2;strokeColor=none;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YeKVqjcb1EDhcV8V6zDs-62" value="AB测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="759" y="730" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="YeKVqjcb1EDhcV8V6zDs-63" value="运营强制推荐" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#999DD2;strokeColor=none;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
